@@ -1,0 +1,10 @@
+----------JAVA SHELL----------
+>java HelloWorld
+Hello, World!
+>java HelloWorld > Hello.txt
+>notepad&
+>
+>
+>exit
+Bye!
+
